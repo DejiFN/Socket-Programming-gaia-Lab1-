@@ -10,3 +10,8 @@
 
 
 > For the Multisever just open the mutithreadedserver.py as python then you should be able to answer the prompts and just follow them and you can run the client too and broswers to connect to the website
+
+Some pictures without my IP
+![image](https://user-images.githubusercontent.com/82783426/175815322-429ab8c3-d3f8-40d1-90a3-0e4388a3e0a1.png)
+![image](https://user-images.githubusercontent.com/82783426/175815292-a7251c9e-1b49-4608-beef-faa0f9654607.png)
+![image](https://user-images.githubusercontent.com/82783426/175815264-1d03fe3c-948d-44da-85f5-f36f420e904c.png)
