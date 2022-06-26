@@ -7,3 +7,6 @@
 > program. Determine the IP address of the host that is running the server (e.g., 128.238.251.26). From 
 > another host, open a browser and provide the corresponding URL. For example:
 > http://128.238.251.26:6789/HelloWorld.html
+
+
+> For the Multisever just open the mutithreadedserver.py as python then you should be able to answer the prompts and just follow them and you can run the client too and broswers to connect to the website
